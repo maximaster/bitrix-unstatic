@@ -1,0 +1,11 @@
+{
+    "name": "maximaster/bitrix-unstatic",
+    "description": "Сервисы Битрикс без статических методов.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maximaster\\BitrixUnstatic\\": "src/"
+        }
+    },
+    "authors": [{"name": "Лавриненко Максим", "email": "maxim.lavrinenko@maximaster.ru"}]
+}
